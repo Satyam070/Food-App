@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\91798\\Downloads\\flutter_windows_3.29.2-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\91798\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\91798\\Desktop\\htmlcss\\Food-Recipes-App-with-Api--master\\android\\app\\.cxx\\Debug\\1x4g736l\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\91798\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\91798\\Desktop\\htmlcss\\Food-Recipes-App-with-Api--master\\android\\app\\.cxx\\Debug\\1x4g736l\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

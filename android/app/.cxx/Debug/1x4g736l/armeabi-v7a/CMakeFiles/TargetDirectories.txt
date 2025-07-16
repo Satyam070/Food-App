@@ -1,0 +1,2 @@
+C:/Users/91798/Desktop/htmlcss/Food-Recipes-App-with-Api--master/android/app/.cxx/Debug/1x4g736l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/91798/Desktop/htmlcss/Food-Recipes-App-with-Api--master/android/app/.cxx/Debug/1x4g736l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
